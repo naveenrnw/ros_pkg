@@ -1,4 +1,4 @@
-##Overview
+## Overview
 
 This includes Moving turtle using puthon script in circular and straight line, 
 one bot mimic the moment of other bot.
@@ -7,7 +7,7 @@ like lazer, camera and the simulation can be seen in Rviz
 
 ===================================================================================
 
-###How to build:
+### How to build:
 
 first create two package in ros name kpit_ros and my_teleop in ~/catkin_ws/src 
 directory using below command
@@ -26,15 +26,15 @@ Ros, gazebo, Rviz and teleop can be launch using below command
 Using the same terminal you can now teleop your bot.
 
 
-###How to use teleop:  
-		_________________________________
-		|								|
-		|	Reading from keyboard 		|
-		|	--------------------------- |
-		|	Use 'WS' to forward/back    |
-		|	Use 'AD' to left/right      |
-		|	Use 'Q' to stop             |
-		|_______________________________|
+### How to use teleop:  
+		_________________________________  
+		|								|  
+		|	Reading from keyboard 		|  
+		|	--------------------------- |  
+		|	Use 'WS' to forward/back    |  
+		|	Use 'AD' to left/right      |  
+		|	Use 'Q' to stop             |  
+		|_______________________________|  
 
 Also a seperate teleop can be launched using 
 	$rosrun my_teleop teleop_keyboard 

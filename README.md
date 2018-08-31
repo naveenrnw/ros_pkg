@@ -47,7 +47,7 @@ For point cloud :
 =============================================================================================
 
 
-Controling the bot using python script and aslo the mimic using below commands
+Controling the bot using python script and aslo the mimic using below commands  
     $ roslaunch kpit_ros SwatchBharat.launch     //For python script  
     $ roslaunch kpit_ros tf_lisnr.launch         //For mimic  
 

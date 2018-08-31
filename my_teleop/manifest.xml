@@ -1,0 +1,16 @@
+<package>
+  <description brief="my_teleop">
+
+     my_teleop
+     the package is being created with help of teleop_arms on ros wiki
+  </description>
+  <author>naveen</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/teleop_arms</url>
+  <depend package="geometry_msgs"/>
+  <depend package="roscpp"/>
+
+</package>
+
+

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kpit/catkin_ws/src/my_teleop/devel/setup.sh

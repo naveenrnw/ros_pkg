@@ -5,7 +5,7 @@ one bot mimic the moment of other bot.
 Also an ROS package to control the bot in Gazebo, having some plugins, Sensors
 like lazer, camera and the simulation can be seen in Rviz
 
-===================================================================================
+=========================================================================================
 
 ### How to build:
 
@@ -44,13 +44,13 @@ For point cloud :
     $roslaunch kpit_ros assembler.launch 
     $rosrun kpit_ros laser_assembler_service_caller 
 
-======================================================================================
+=============================================================================================
 
 
 Controling the bot using python script and aslo the mimic using below commands
     $ roslaunch kpit_ros SwatchBharat.launch     //For python script  
     $ roslaunch kpit_ros tf_lisnr.launch         //For mimic  
 
-======================================================================================
+=============================================================================================
 
 

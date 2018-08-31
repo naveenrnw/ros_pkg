@@ -1,0 +1,12 @@
+<launch>
+
+ 
+  <node pkg="kpit_ros" name="publisher" type="learnpub.py">
+  </node>
+
+  <group ns="turtle1">
+  	<node pkg="turtlesim" name="sim" type="turtlesim_node"/>
+  	</group>
+ 
+
+</launch>

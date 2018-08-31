@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 
 This includes Moving turtle using puthon script in circular and straight line, 
@@ -57,3 +58,6 @@ Controling the bot using python script and aslo the mimic using below commands
 ======================================================================================
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ======================================================================================
+=======
+# ros_pkg
+>>>>>>> origin/master

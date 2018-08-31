@@ -28,8 +28,8 @@ Using the same terminal you can now teleop your bot.
 
 ### How to use teleop:  
 		_________________________________  
-		|								|  
-		|	Reading from keyboard 		|  
+		|                               |  
+		|	Reading from keyboard       |  
 		|	--------------------------- |  
 		|	Use 'WS' to forward/back    |  
 		|	Use 'AD' to left/right      |  
@@ -48,8 +48,8 @@ For point cloud :
 
 
 Controling the bot using python script and aslo the mimic using below commands
-	$ roslaunch kpit_ros SwatchBharat.launch     //For python script
-	$ roslaunch kpit_ros tf_lisnr.launch 		 //For mimic
+	$ roslaunch kpit_ros SwatchBharat.launch     //For python script  
+	$ roslaunch kpit_ros tf_lisnr.launch 		 //For mimic  
 
 ======================================================================================
 
